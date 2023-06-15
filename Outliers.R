@@ -76,7 +76,7 @@ grubbs.test(Glass$K)
 
 
 
-### λυση dama51
+###
 
 Glass$k <-replace(Glass$K,173,NA)
 
